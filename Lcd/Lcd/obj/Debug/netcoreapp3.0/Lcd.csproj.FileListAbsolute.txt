@@ -1,0 +1,11 @@
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.exe
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.deps.json
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.runtimeconfig.json
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.runtimeconfig.dev.json
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.dll
+C:\Users\lizze\source\repos\Lcd\Lcd\bin\Debug\netcoreapp3.0\Lcd.pdb
+C:\Users\lizze\source\repos\Lcd\Lcd\obj\Debug\netcoreapp3.0\Lcd.AssemblyInfoInputs.cache
+C:\Users\lizze\source\repos\Lcd\Lcd\obj\Debug\netcoreapp3.0\Lcd.AssemblyInfo.cs
+C:\Users\lizze\source\repos\Lcd\Lcd\obj\Debug\netcoreapp3.0\Lcd.dll
+C:\Users\lizze\source\repos\Lcd\Lcd\obj\Debug\netcoreapp3.0\Lcd.pdb
+C:\Users\lizze\source\repos\Lcd\Lcd\obj\Debug\netcoreapp3.0\Lcd.csprojAssemblyReference.cache
